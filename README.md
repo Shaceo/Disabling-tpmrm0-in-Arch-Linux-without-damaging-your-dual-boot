@@ -4,7 +4,7 @@ Disabling tpmrm0 in Arch Linux without damaging your dual boot ( step by step ) 
 
 <h1>Türkçe</h1><br><br>
 TPM Bekleme Sorunu Çözümü – Özet
-<h3>1️⃣ Sorunu Tanımlama</h3><br><br>
+<h3>1️⃣ Sorunu Tanımlama</h3>
 
 Açılışta A start job is running for /dev/tpmrm0 (~1min 30s) beklemesi vardı.
 
